@@ -17,7 +17,7 @@ export default function About() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
               <img 
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuD34m7_x7B9aI_m9gC0W0cKjQh0QZ_t9R5w8K9L_a8n8W0M7p4I_b6y-v2e9q1t8Y_u6i5o4p3l2k1j0h9g8f7e6d5c4b3a2Z1Y0X9W8V7U6T5S4R3Q2P1O0N9M8L7K6J5I4H3G2F1E0D9C8B7A6z5y4x3w2v1u0t9s8r7q6p5o4n3m2l1k0j9i8h7g6f5e4d3c2b1a0Z" 
+                src="https://callhoustonhvac.com/wp-content/uploads/2022/10/IMG_4089.jpeg" 
                 alt="Ron, Master HVAC Technician" 
                 className="w-full h-[600px] object-cover"
               />

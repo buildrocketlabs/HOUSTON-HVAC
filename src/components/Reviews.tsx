@@ -75,7 +75,7 @@ export default function Reviews() {
                 <p className="text-on-surface-variant italic text-base leading-relaxed">{review.text}</p>
               </div>
               <div className="flex items-center gap-4 pt-6 mt-4 border-t border-surface-container-low">
-                <img src={review.avatar} alt={review.author} className="w-12 h-12 rounded-full border-2 border-surface-container object-cover" />
+                <img src={review.avatar} alt={review.author} className="w-12 h-12 rounded-full border-2 border-surface-container object-cover" referrerPolicy="no-referrer" />
                 <div>
                   <div className="font-bold text-primary flex items-center gap-1">
                     {review.author} <BadgeCheck size={16} className="text-blue-500" />

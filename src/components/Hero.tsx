@@ -9,7 +9,7 @@ export default function Hero() {
         <img 
           alt="Houston Skyline" 
           className="w-full h-full object-cover" 
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuA88ZDllU8lvg98hmQPBs1QUtwE0EbCXuFvOdWqME_pBryoiREGDBoggxkXr1e0dKYH3snCSG_bufpqAGcJv6o92WB3UC6f_rViDIWd0FhNxXypvVs_C7ZfQmD7LqDMjssKXIBTTUmI28t_ujuVKjzMU6ohH4UWWdeJzQr8wVsBMwpOp4Z8s5Xz5EmDen6jiEeSGtBBaDbXojuU_9Yz3avISljWepv3Kj-gYhDYUhjz7P7y5U6nZzQA3wiscPc2if3Db0wDQRxHzsjZ"
+          src="https://callhoustonhvac.com/wp-content/uploads/2022/10/IMG_4089.jpeg"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-slate-950/90 via-slate-950/70 to-slate-950/95"></div>
       </div>
@@ -81,7 +81,7 @@ export default function Hero() {
             <img 
               alt="Professional HVAC Technician working on AC unit" 
               className="w-full h-[550px] object-cover" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuANoDOjOOwwS7ycWx4trCoKmVIp8t5tyBFlnyc0OuPpxiCpLeZEZC2KDD3W592mucv_Xmrfr_LOp7V8_yZQW1TlUYPDM8fADK_2JTkBz0Ute0p7z_p4dGfrnVCEcfl3e4WukJVKov7QfJ7j2b5GY1Xa6M1DHiqMC23f-amTNy8cq4tbBXu13Dv9VaZClRRTznWdfX4mqUqE736KhFZfPEVhUgCISVaMJlZCEokbOzUim4_cy4G-G8Kmsr45J5ckWuxNOwAkw3zaQau6"
+              src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=800&auto=format&fit=crop"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-primary/60 to-transparent"></div>
           </div>

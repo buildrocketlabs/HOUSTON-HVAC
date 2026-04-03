@@ -44,7 +44,7 @@ export default function ServiceAreas() {
             <img 
               alt="Map of Houston area" 
               className="w-full h-full object-cover grayscale opacity-50" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBAelCDU36gQMxl1e4dD8Oc-GD7uuwC1cb245dHLV1YMMI9lXBEr4N7EbHOrF2u5IAK8DmiCdchd-xZ_ftlDOBR-ad_C_TTmfeBJ3zZGSeA5pFQFTIrwN1CXZrcPjqQkZXmt9cH_Yx2e1fTuRYWihF3otax5fPICXESXn1MHHs7AXJUcrh2Kdl8EEpN-70gUXLFwwaXz6pLsSWE10Re5d3E4kFJXMEomYslOTRgvxiy2IqFOrAoDIKyVKGrpy0KnkZ-Zq2NiTNrBgFU"
+              src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1000&auto=format&fit=crop"
             />
           </div>
           <div className="absolute inset-0 flex items-center justify-center">
